@@ -128,6 +128,7 @@ const shahid = {
 ### 🎯 Contests & Events
 - 🏁 **ACPC** — ABES ACM Programming Contest
 - ⚔️ **Clash of Coders** — ABES Engineering College
+- ⚔️ **ICPC** — KIET Engineering College
 
 ---
 

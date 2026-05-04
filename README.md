@@ -121,9 +121,9 @@ const shahid = {
 
 | Platform | Stats |
 |----------|-------|
-| 🟡 **LeetCode** | 91 Problems Solved · 🏅 50 Days Badge |
+| 🟡 **LeetCode** | 100+ Problems Solved · **1580+** rating · 🏅 50 Days Badge |
 | 🟤 **CodeChef** | Rating: **1198** · 350+ Problems Solved |
-| 🟢 **GeeksforGeeks** | 60+ Problems Solved |
+| 🟢 **GeeksforGeeks** | 100+ Problems Solved |
 
 ### 🎯 Contests & Events
 - 🏁 **ACPC** — ABES ACM Programming Contest
@@ -135,6 +135,7 @@ const shahid = {
 ## 🏅 Certifications
 
 - ☁️ **AWS Academy Graduate – Cloud Foundations** — Amazon Web Services *(Dec 2025)*
+- ☁️ **AWS Academy Graduate – Cloud Architect** — Amazon Web Services *(Apr 2026)*
 - ☁️ **AWS Cloud** — GeeksforGeeks
 - ⚛️ **ReactJS Development** — GeeksforGeeks
 - 🗄️ **SQL Database Management** — Udemy

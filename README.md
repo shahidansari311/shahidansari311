@@ -4,12 +4,14 @@
 
 ### Full-Stack Developer · Cloud Enthusiast · Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Apps;React.js+%2B+Node.js+Developer;AWS+Cloud+Practitioner;500%2B+DSA+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Apps;React.js+%2B+Node.js+Developer;AWS+Cloud+Practitioner;700%2B+DSA+Problems+Solved)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/shahid-ansari-433449327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://shahidansari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://leetcode.com/u/shahid310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/shahid310"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/shahidansari3111"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
   <a href="https://x.com/Shahid_310_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:shahidansari945256@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -29,7 +31,7 @@ const shahid = {
   focus:       ["Full-Stack Development", "Cloud Computing", "DSA"],
   currentWork: "Building SocialBazar — a Social Media Marketplace",
   goal:        "Landing a Software Engineering Internship 🚀",
-  funFact:     "I solve DSA problems daily — 500+ and counting!"
+  funFact:     "I solve DSA problems daily — 700+ and counting!"
 };
 ```
 
@@ -62,9 +64,10 @@ const shahid = {
 
 ### Tools & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -72,10 +75,24 @@ const shahid = {
 
 ## 🚀 Featured Projects
 
-### 🛒 [SocialBazar — Social Media Marketplace](https://github.com/shahidansari311) *(2026 — Ongoing)*
+### 🏦 [Bank Ledger System](https://github.com/shahidansari311/Bank-ledger) *(May – Jun 2026)*
+> A production-ready RESTful Bank Ledger API with secure authentication, automated email notifications, scheduled background jobs, and full CI/CD deployment on AWS EC2.
+
+`Node.js` `Express.js` `MongoDB` `JWT` `bcrypt` `Nodemailer` `node-cron` `GitHub Actions` `AWS EC2`
+
+---
+
+### 🛒 [SocialBazar — Social Media Marketplace](https://github.com/shahidansari311) *(2025 — 2026)*
 > A full-stack social commerce platform where users can post listings, follow others, interact via likes/comments, and do peer-to-peer transactions.
 
 `PostgreSQL` `Express.js` `React.js` `Node.js` `JWT` `Zustand`
+
+---
+
+### 💻 [Real-Time Collaborative Code Editor](https://github.com/shahidansari311) *(2026)*
+> Production-grade collaborative code editor where multiple users can join rooms and edit code simultaneously with real-time sync — deployed on AWS ECS via Docker.
+
+`React.js` `Node.js` `Socket.io` `Yjs` `Monaco Editor` `Docker` `AWS ECS`
 
 ---
 
@@ -83,20 +100,6 @@ const shahid = {
 > E-commerce platform with admin dashboard, image uploads, cart system, JWT auth, and complete purchase flow.
 
 `Node.js` `Express.js` `MongoDB` `Multer` `bcrypt` `MVC`
-
----
-
-### 🌤️ [Weather Dashboard](https://github.com/shahidansari311) *(2024)*
-> Real-time weather app with 7-day forecast, geolocation detection, animated icons, and °C/°F toggle.
-
-`React.js` `OpenWeather API`
-
----
-
-### 🌐 [Personal Portfolio Website](https://github.com/shahidansari311) *(2025)*
-> Responsive developer portfolio with Framer Motion animations and a working contact form.
-
-`React.js` `TailwindCSS` `Framer Motion`
 
 ---
 
@@ -121,21 +124,26 @@ const shahid = {
 
 | Platform | Stats |
 |----------|-------|
-| 🟡 **LeetCode** | 100+ Problems Solved · **1580+** rating · 🏅 50 Days Badge |
+| 🟡 **LeetCode** | 100+ Problems Solved · **1581** rating · 🏅 50 Days Badge |
 | 🟤 **CodeChef** | Rating: **1198** · 350+ Problems Solved |
 | 🟢 **GeeksforGeeks** | 100+ Problems Solved |
+| 🟩 **HackerRank** | 150+ Problems Solved · SQL & Problem Solving |
+
+> 🎯 **700+ problems solved** across all platforms combined
 
 ### 🎯 Contests & Events
 - 🏁 **ACPC** — ABES ACM Programming Contest
 - ⚔️ **Clash of Coders** — ABES Engineering College
-- ⚔️ **ICPC** — KIET Engineering College
+- ⚔️ **KIET Coding Contest** — KIET Group of Institutions
+- 🏁 **SRM IST Code Wizard 24** — SRM Institute of Science and Technology
 
 ---
 
 ## 🏅 Certifications
 
-- ☁️ **AWS Academy Graduate – Cloud Foundations** — Amazon Web Services *(Dec 2025)*
-- ☁️ **AWS Academy Graduate – Cloud Architect** — Amazon Web Services *(Apr 2026)*
+- ☁️ **AWS Academy Graduate – Cloud Architecting** — Amazon Web Services *(2025)*
+- ☁️ **AWS Academy Graduate – Cloud Foundations** — Amazon Web Services *(Dec 2024)*
+- 🗄️ **SQL (Advanced) Certificate** — HackerRank
 - ☁️ **AWS Cloud** — GeeksforGeeks
 - ⚛️ **ReactJS Development** — GeeksforGeeks
 - 🗄️ **SQL Database Management** — Udemy
@@ -145,10 +153,20 @@ const shahid = {
 
 ---
 
+## 🏆 Achievements & Hackathons
+
+- 🥈 **SAH 2.0 — Smart ABES Hackathon** · 1st Runner-Up (2nd Place) — National Level *(2025)*
+- 🤝 **GirlScript Summer of Code (GSSoC) '26** — Open Source Contributor *(2026)*
+- 🤖 **KIET AI Arena** — 30-Hour AI Hackathon · Built AI-Powered Interior Designer *(2025)*
+- 📰 **SRM IST Code Wizard 24** — Built Fake News Detection System using NLP & LLMs *(2025)*
+
+---
+
 ## 🎯 Currently
 
 - 🔨 Building **SocialBazar** — social commerce platform
 - 📚 Deep diving into **System Design** and **DSA**
+- 🤖 Exploring **LLMs**, **LangGraph**, and AI-powered apps
 - 🎯 Targeting **Software Engineering Internships**
 - ☁️ Expanding **AWS** cloud skills
 
@@ -157,6 +175,8 @@ const shahid = {
 <div align="center">
 
 ### 💬 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shahidansari.vercel.app-6C63FF?style=for-the-badge)](https://shahidansari.vercel.app)
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 

@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Cloud Enthusiast · Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+%26+Mobile+Apps;React.js+%2B+React+Native+%2B+Node.js;AWS+Cloud+%7C+PERN+%2F+MERN+Stack;600%2B+DSA+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+%26+Mobile+Apps;React.js+%2B+React+Native+%2B+Node.js;AWS+Cloud+%7C+PERN+%2F+MERN+Stack;850%2B+DSA+Problems+Solved)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/shahid-ansari-433449327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,11 +29,11 @@ const shahid = {
   location:    "Ghaziabad, India 🇮🇳",
   education:   "B.Tech CSE @ ABES Engineering College (3rd Year)",
   focus:       ["Full-Stack Development", "Mobile Apps", "Cloud Computing", "DSA"],
-  currentWork: "Building SocialBazar — a Social Media Marketplace",
-  exploring:   ["LLMs", "LangGraph", "AI-Powered Applications"],
+  currentWork: "Freelance Mobile & Backend Developer @ Silver Real Estate",
+  exploring:   ["LLMs", "RAG", "LangGraph", "AI-Powered Applications"],
   contributor: "GirlScript Summer of Code (GSSoC) '26",
   goal:        "Landing a Software Engineering Internship 🚀",
-  funFact:     "I solve DSA problems daily — 600+ and counting!"
+  funFact:     "I solve DSA problems daily — 850+ and counting!"
 };
 ```
 
@@ -64,15 +64,18 @@ const shahid = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### AI / ML
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logoColor=white)
 
 ### Tools, Auth & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
@@ -87,12 +90,23 @@ const shahid = {
 
 ---
 
+## 💼 Experience
+
+### 🏢 Silver Real Estate — Mobile Application & Backend Development Intern *(Freelance, from Aug 2026)*
+> Contributed to a role-based real estate platform spanning a mobile app, backend services, an admin panel and a web platform.
+
+- Developed the role-based mobile app using **React Native**, **Expo** and **TypeScript** with **NativeWind**
+- Built the **Node.js / Express.js** REST API with **Prisma ORM** and **PostgreSQL (Supabase)**; implemented passwordless OTP login with short-lived **JWT** access tokens, device-bound **refresh-token rotation** and encrypted on-device token storage (`expo-secure-store`)
+- Added an Axios interceptor for silent session refresh; handled deployment and infrastructure using **AWS**, **Docker**, GitHub and **GitHub Actions CI/CD**
+
+---
+
 ## 🚀 Featured Projects
 
-### 🏠 [HomeHive — Real Estate Property Listing App](https://github.com/shahidansari311) *(Jun – Jul 2026)*
-> Cross-platform mobile app for browsing, searching, and listing real estate properties, built with file-based routing for smooth navigation across iOS and Android.
+### 💸 [PaisaPilot — Personal Finance & Expense Splitting App](https://github.com/shahidansari311/PaisaPilot) *(Jul 2026)*
+> Offline-first mobile app for tracking income and expenses, budgets, a monthly calendar view, group expense splitting with settle-up, and a borrow/lend ledger — all stored locally in SQLite.
 
-`React Native` `Expo` `TypeScript` `NativeWind` `Zustand`
+`React Native` `Expo` `TypeScript` `SQLite` `Zustand` `Zod` `Expo Router`
 
 ---
 
@@ -100,27 +114,6 @@ const shahid = {
 > A production-ready RESTful Bank Ledger API with secure authentication, automated email notifications, scheduled background jobs, and full CI/CD deployment on AWS EC2.
 
 `Node.js` `Express.js` `MongoDB` `JWT` `bcrypt` `Nodemailer` `node-cron` `GitHub Actions` `AWS EC2`
-
----
-
-### 🛒 [SocialBazar — Social Media Marketplace](https://github.com/shahidansari311) *(2026)*
-> A full-stack social commerce platform where users can post listings, follow others, interact via likes/comments, and do peer-to-peer transactions.
-
-`React.js` `Node.js` `Express.js` `PostgreSQL` `Zustand` `JWT`
-
----
-
-### 💻 [Real-Time Collaborative Code Editor](https://github.com/shahidansari311) *(2026)*
-> Production-grade collaborative code editor where multiple users can join rooms and edit code simultaneously with real-time sync — deployed on AWS ECS via Docker.
-
-`React.js` `Node.js` `Socket.io` `Yjs` `Monaco Editor` `Docker` `AWS ECS`
-
----
-
-### 👜 [Scatch — E-Commerce Platform](https://github.com/shahidansari311) *(2025)*
-> E-commerce platform with admin dashboard, image uploads, cart system, JWT auth, and complete purchase flow.
-
-`Node.js` `Express.js` `MongoDB` `Multer` `EJS` `bcrypt` `MVC`
 
 ---
 
@@ -146,11 +139,11 @@ const shahid = {
 | Platform | Stats |
 |----------|-------|
 | 🟡 **LeetCode** | 100+ Problems Solved · **1581** rating · 🏅 50-Day Badge |
-| 🟤 **CodeChef** | Rating: **1198** · 350+ Problems Solved |
+| 🟤 **CodeChef** | Rating: **1258** · 350+ Problems Solved |
 | 🟢 **GeeksforGeeks** | 100+ Problems Solved |
 | 🟩 **HackerRank** | 150+ Problems Solved · SQL & Problem Solving |
 
-> 🎯 **600+ problems solved** across all platforms combined
+> 🎯 **850+ problems solved** across all platforms combined
 
 ### 🎯 Contests & Events
 - 🏁 **ACPC** — ABES ACM Programming Contest
@@ -176,16 +169,15 @@ const shahid = {
 
 - 🥈 **SAH 2.0 — Smart ABES Hackathon** · 1st Runner-Up (2nd Place) — National Level *(2025)*
 - 🤝 **GirlScript Summer of Code (GSSoC) '26** — Open Source Contributor *(2026)*
-- 🤖 **KIET AI Arena** — 30-Hour AI Hackathon · Built AI-Powered Interior Designer *(2025)*
 
 ---
 
 ## 🎯 Currently
 
-- 🔨 Building **SocialBazar** — social commerce platform
-- 📱 Shipped **HomeHive** — cross-platform real estate app
+- 🏢 Freelancing as a Mobile & Backend Developer at **Silver Real Estate**
+- 📱 Shipped **PaisaPilot** — offline-first personal finance app
 - 📚 Deep diving into **System Design** and **DSA**
-- 🤖 Exploring **LLMs**, **LangGraph**, and AI-powered apps
+- 🤖 Exploring **LLMs**, **RAG**, **LangGraph**, and AI-powered apps
 - 🎯 Targeting **Software Engineering Internships**
 - ☁️ Expanding **AWS** cloud skills
 

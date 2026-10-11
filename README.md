@@ -92,7 +92,7 @@ const shahid = {
 
 ## 💼 Experience
 
-### 🏢 Silver Real Estate — Mobile Application & Backend Development Intern *(Freelance, from Aug 2026)*
+### 🏢 Silver Vista Property LLP— Mobile Application & Backend Development Intern *(Freelance, from Aug 2026)*
 > Contributed to a role-based real estate platform spanning a mobile app, backend services, an admin panel and a web platform.
 
 - Developed the role-based mobile app using **React Native**, **Expo** and **TypeScript** with **NativeWind**
